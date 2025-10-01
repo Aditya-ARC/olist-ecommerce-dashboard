@@ -10,7 +10,7 @@ This project showcases an end-to-end data engineering workflow using the Brazili
 
 ## 📊 Tableau Dashboard
 
-🔗 [View Dashboard on Tableau Public](PASTE-YOUR-LINK-HERE)
+🔗 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/aditya.ravindra.chitnis/viz/OlistE-commerceDashboardSalesShippingSatisfaction/E-commerceFunnelDashboard?publish=yes)
 
 ## 📁 Files
 
